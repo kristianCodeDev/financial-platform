@@ -1,10 +1,8 @@
-# React Native with Expo template
+# Financial Platform Example App
 
-By default Expo web is automatically running but you can use the QR code in the application log to open Expo on your iOS or Android device. 
+This is a stock market app that is created to present my skills in react native in terms of coding and understanding the framework. Many more features might be added in the future.
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io/p/dashboard).
+## To start
 
-## Resources
-
-- [CodeSandbox — Docs](https://codesandbox.io/docs/learn)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
+1. npm install
+2. "npm start", "npm run ios", "npm run android" or "npm run web"
